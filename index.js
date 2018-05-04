@@ -13,3 +13,8 @@ function multiply(a, b){
 function divide(a, b){
   return a/b
 }
+
+functio inc(n){
+  n++
+  return n
+}
